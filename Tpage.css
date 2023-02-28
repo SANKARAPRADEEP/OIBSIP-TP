@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     background-color: rgb(37, 37, 37);
+    scroll-behaviour: smooth;
 }
 .container{
     height: 100%;
